@@ -1,0 +1,93 @@
+/* Estilo 1: Serif clásico */
+.hello-1 {
+    font-family: Georgia, serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Estilo 2: Sans-serif moderno */
+.hello-2 {
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    color: #0066cc;
+}
+
+/* Estilo 3: Monospace */
+.hello-3 {
+    font-family: 'Courier New', monospace;
+    font-size: 24px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    color: #333;
+}
+
+/* Estilo 4: Cursiva elegante */
+.hello-4 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 36px;
+    font-style: italic;
+    color: #d946a6;
+}
+
+/* Estilo 5: Mayúsculas con sombra */
+.hello-5 {
+    font-family: Impact, sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    color: #ff6b35;
+}
+
+/* Estilo 6: Con borde */
+.hello-6 {
+    font-family: Verdana, sans-serif;
+    font-size: 26px;
+    color: #fff;
+    background-color: #333;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+
+/* Estilo 7: Degradado */
+.hello-7 {
+    font-family: 'Times New Roman', serif;
+    font-size: 38px;
+    font-weight: bold;
+    background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Estilo 8: Subrayado decorativo */
+.hello-8 {
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 30px;
+    color: #2c3e50;
+    text-decoration: underline;
+    text-decoration-color: #e74c3c;
+    text-decoration-thickness: 3px;
+}
+
+/* Estilo 9: Pequeñas mayúsculas */
+.hello-9 {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    font-size: 28px;
+    font-variant: small-caps;
+    font-weight: 600;
+    color: #27ae60;
+    letter-spacing: 1px;
+}
+
+/* Estilo 10: Efecto 3D */
+.hello-10 {
+    font-family: Arial, sans-serif;
+    font-size: 44px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 3px 3px 0px #3498db,
+                             6px 6px 0px rgba(52, 152, 219, 0.5);
+}
